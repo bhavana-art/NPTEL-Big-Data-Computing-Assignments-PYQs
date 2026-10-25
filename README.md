@@ -1,7 +1,8 @@
 # Big Data Computing 📊
 
 This repository contains **Previous Year Question Papers (PYQs), assignments, and solutions** for the Big Data Computing subject. It is intended to help students prepare for exams, complete assignments, and revise important concepts.
-If it not get open here then click on download raw file and open it in browser.
+
+## If it not get open here then click on download raw file and open it in browser.
 
 
 ## 🎯 Purpose
